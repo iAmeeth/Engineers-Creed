@@ -171,7 +171,7 @@
       		$('.slider').slider({
       			full_width: true,
       			indicators: true,
-      			height: 480,
+      			height: 600,
       			transition: 1200,
       			interval: 3000
       		});
