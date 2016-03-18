@@ -48,7 +48,7 @@
 	<!--This is the actual content of the Page-->
 
 	<!--Slider to display quick links-->
-	<div id="start" class="slider scrollspy z-depth-4" style="background-color: black;"><!--black-->
+	<div id="start" class="slider scrollspy z-depth-4" style="background-color:  grey darken-3;"><!--black-->
 		<ul class="slides">
 			<li>
 				<img src="images/jobs.jpg" style="opacity: 1.0" class="responsive-img">
