@@ -17,7 +17,7 @@
 	<!--Navigation Bar-->
 	<div class="navbar-fixed">
 		<nav>
-			<div class="nav-wrapper blue-grey darken-3">
+			<div class="nav-wrapper grey darken-3"><!--blue-grey darken-3-->
 				<!--<a href="#start" class="brand-logo center">Engineers Creed</a>-->
 				<a href="http://engineerscreed.azurewebsites.net/" class="brand-logo center">Engineers Creed</a>	
 				
