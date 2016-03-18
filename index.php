@@ -48,7 +48,7 @@
 	<!--This is the actual content of the Page-->
 
 	<!--Slider to display quick links-->
-	<div id="start" class="slider scrollspy z-depth-4 waves-effect waves-light" style="background-color: black;">
+	<div id="start" class="slider scrollspy z-depth-4" style="background-color: black;">
 		<ul class="slides">
 			<li>
 				<img src="images/jobs.jpg" style="opacity: 1.0" class="responsive-img">
@@ -86,8 +86,7 @@
 			<li>
 				<img src="images/ph.png">
 				<div class="caption right-align" style="opacity: 1.0">
-					<font color="black"><h3>Patience And Hardwork</h3><h5>The keys to success</h5>
-					</font>
+				
 				</div>
 			</li>
 
