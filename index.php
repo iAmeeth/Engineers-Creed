@@ -37,7 +37,7 @@
 				<ul id="mobile-demo" class="side-nav">
 					<li><a href="#Quotes" class="flow-text">Quotes</a> </li>
 					<li><a href="#Innovations" class="flow-text">Innovations</a></li>
-					<li><a href="#Humor" class="flow-text">Humor</a></li>
+					<li><a href="#Humour" class="flow-text">Humor</a></li>
 					<li><a href="#AboutUs" class="flow-text">About Us</a></li>		
 				</ul>
 			</div>
