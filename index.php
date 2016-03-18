@@ -106,7 +106,7 @@
 
 
 	<!--Section 2-->
-	<div id="Innovations" class="section scrollspy blue-grey lighten-2" style="height: 400px;">
+	<div id="Innovations" class="section scrollspy  grey lighten-1" style="height: 400px;">
 		<div class="row container">
 			<h2 class="header">Innovations</h2>
       		<p class="black-text"> A peek into the amazing world of Engineering	</p>
@@ -128,7 +128,7 @@
 	</div>
 
 	<!--Section 4-->
-	<div id="AboutUs" class="section blue-grey lighten-2 scrollspy" style="height: 500px;">
+	<div id="AboutUs" class="section grey lighten-1 scrollspy" style="height: 500px;">
 		<div class="row container">
 			<h2 class="header">About Us</h2>
       		<p class="black-text">
