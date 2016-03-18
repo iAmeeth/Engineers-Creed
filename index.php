@@ -95,7 +95,7 @@
 
 	<!--Section 1-->
 	<div id="Quotes" class="parallax-container scrollspy" style="height: 400px;">
-		<div class="parallax"><img src="images/Engineering3.jpg" style="opacity: 0.4;"></div>
+		<div class="parallax"><img src="images/Engineering_parallax.jpg" style="opacity: 0.4;"></div>
 		<div class="row container">
 			<h2 class="header">Quotes</h2>
       		<p class="black-text"> A wide collection of Quotes on and about Engineering	</p>
