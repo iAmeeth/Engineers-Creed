@@ -63,5 +63,33 @@
 	<p>
 		Artificial Intelligence for translating facebook photos for the blind.
 	</p>
+	<!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.js"></script>
+
+    <!--Initialization for the slider-->
+    <script type="text/javascript">
+		
+    	$(document).ready(function(){
+    		//initialize the scrollSpy Effect
+    		$('.scrollspy').scrollSpy();
+			
+			//Initialize the side navigation bar
+    		$('.button-collapse').sideNav();    	
+    	});
+    	$(document).ready(function(){
+    		//initialize the Parallax effect
+    		$('.parallax').parallax();
+    		//Initialize the slider
+      		$('.slider').slider({
+      			full_width: true,
+      			indicators: true,
+      			height: 480,
+      			transition: 1200,
+      			interval: 3000
+      		});
+    	});
+        
+    </script>
 </body>
 </html>
