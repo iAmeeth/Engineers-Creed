@@ -28,7 +28,7 @@
 	</style>
 </head>
 
-<body style="background-color:black">
+<body style="background-color:blue">
 	<h1>
 		INNOVATIONS
 	</h1>
